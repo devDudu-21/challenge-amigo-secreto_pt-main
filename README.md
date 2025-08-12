@@ -7,7 +7,6 @@
 ## Índice
 
 - [Título e Imagem de capa](#amigo-secreto)
-- [Status do Projeto](#status-do-projeto)
 - [Índice](#índice)
 - [Descrição do Projeto](#descricao-do-projeto)
 - [Status do Projeto](#status-do-projeto)
@@ -64,7 +63,7 @@ Sinta-se à vontade para contribuir! Abra uma issue ou envie um pull request.
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><subEduardo Fernandes</sub>](https://github.com/devDudu-21) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/110435263?v=4" width=115><br><sub>Eduardo Fernandes</sub>](https://github.com/devDudu-21) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
