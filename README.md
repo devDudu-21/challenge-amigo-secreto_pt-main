@@ -27,12 +27,6 @@ O projeto **Amigo Secreto** é uma aplicação web simples para organizar sortei
 
 ---
 
-## 🚧 Status do Projeto
-
-> :construction: Projeto em construção :construction:
-
----
-
 ## 🔨 Funcionalidades e Demonstração da Aplicação
 
 - `Adicionar participantes`: Permite inserir nomes dos participantes do amigo secreto.
@@ -70,7 +64,7 @@ Sinta-se à vontade para contribuir! Abra uma issue ou envie um pull request.
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Seu Nome</sub>](https://github.com/seuusuario) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><subEduardo Fernandes</sub>](https://github.com/devDudu-21) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
